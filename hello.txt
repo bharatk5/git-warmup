@@ -4,3 +4,4 @@ How to make a hello mean more?
 Adding log for feature2 completion
 feature 1 completed
 feature 4 completed
+feature 3 completed
